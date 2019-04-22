@@ -1,0 +1,5 @@
+D:\eclipse-1\ad\youzan-ad-service\youzan-ad-common\src\main\java\com\youzan\ad\vo\CommonResponse.java
+D:\eclipse-1\ad\youzan-ad-service\youzan-ad-common\src\main\java\com\youzan\ad\advice\CommonResponseDataAdvice.java
+D:\eclipse-1\ad\youzan-ad-service\youzan-ad-common\src\main\java\com\youzan\ad\advice\ExceptionAdvice.java
+D:\eclipse-1\ad\youzan-ad-service\youzan-ad-common\src\main\java\com\youzan\ad\exception\AdException.java
+D:\eclipse-1\ad\youzan-ad-service\youzan-ad-common\src\main\java\com\youzan\ad\annotation\IgnoreResponseAdvice.java

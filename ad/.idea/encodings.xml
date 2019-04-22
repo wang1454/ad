@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-erueka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-erueka/src/main/java/com/youzan/ad/EurekaApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-erueka/src/main/resources/application-dev.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-erueka/src/main/resources/application-test.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-erueka/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-gateway/src/main/java/com/youzan/ad/ZuulGateWayApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-gateway/src/main/java/com/youzan/ad/filter" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-gateway/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/src/main/java/com/youzan/ad/dump/table/AdCreativeTbale.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/src/main/java/com/youzan/ad/dump/table/AdCreativeUnitTbale.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/src/main/java/com/youzan/ad/dump/table/AdPlanTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/src/main/java/com/youzan/ad/dump/table/AdUnitDistrictTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/src/main/java/com/youzan/ad/dump/table/AdUnitItTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/src/main/java/com/youzan/ad/dump/table/AdUnitKeywordTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-common/src/main/java/com/youzan/ad/dump/table/AdUnitTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/src/main/java/com/youzan/ad/client/vo/AdPlanGetRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/src/main/java/com/youzan/ad/client/vo/AdPlanResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/src/main/java/com/youzan/ad/utils/CommonUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/src/main/resources/template.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/src/test/java/BinlogServiceTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzan-ad-search/src/test/java/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/constant/Constants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/entity/AdCreative.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/entity/AdPlan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/entity/AdUnit.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/entity/unit_condition" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/util/CommonUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/AdUnitDistrictRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/AdUnitDistrictResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/AdUnitItRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/AdUnitItResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/AdUnitKeyWordRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/AdUnitKeywordResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/CreateUserResquest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/CreativeRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/CreativeResopnse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/CreativeUnitRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/youzan-ad-service/youzhan-ad-sponsor/src/main/java/com/youzan/ad/vo/CreativeUnitResponse.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
